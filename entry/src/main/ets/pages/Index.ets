@@ -17,8 +17,8 @@ struct ColorTextChanger {
 
       // 控制按钮
       Button('点击变换')
-        .width(150)
-        .height(50)
+        .width('60%')
+        .height('20%')
         .backgroundColor('#409EFF')
         .fontColor(Color.White)
         .onClick(() => {
